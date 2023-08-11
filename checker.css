@@ -1,0 +1,56 @@
+.vfs {
+    width: 200px;
+    margin-top: 0;
+}
+
+.flag-cc {
+    width: 50px;
+    margin-left: 500px;
+    margin-bottom: 0;
+    margin-bottom: 0;
+}
+
+.inp {
+    width: 150px;
+    font-weight: bold;
+    font-style: italic;
+    margin-top: 0;
+    margin-left: 600px;
+    margin-bottom: 0;
+}
+
+.track {
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(16, 16, 85);
+}
+
+.num {
+    font-weight: bold;
+    margin-top: 0;
+
+}
+
+.ref {
+    width: 500px;
+    margin-bottom: 0;
+}
+
+.last {
+    font-weight: bold;
+}
+
+.nam {
+    width: 500px;
+
+}
+
+.logo {
+    width: 200px;
+}
+
+.sub {
+    width: 400px;
+    background-color: rgb(16, 16, 85);
+    color: #fff;
+}
